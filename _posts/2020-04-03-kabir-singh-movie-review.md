@@ -1,6 +1,6 @@
 ---
+title: "কবির সিংঃ মুভি রিভিউ"
 layout: post
-Title: কবির সিংঃ মুভি রিভিউ
 categories: [movie]
 tags: [random]
 ---
