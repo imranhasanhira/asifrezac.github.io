@@ -17,5 +17,8 @@ This website will be basically my digital wall magazine as well as a portfolio o
 ### Get in touch
 
 Dhaka - 1215
+
 Bangladesh, Earth.
+
+
 [asfirezac@gmail.com](mailto:asifrezac@gmail.com)
