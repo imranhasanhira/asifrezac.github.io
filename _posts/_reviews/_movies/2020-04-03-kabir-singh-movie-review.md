@@ -3,6 +3,7 @@ title: "কবির সিংঃ মুভি রিভিউ"
 layout: post
 categories: [movie]
 tags: [random]
+permalink: /blogs/movies
 
 ---
 
