@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Reviews"
-permalink: /reviews.html
+title: "Blogs"
+permalink: /blogs.html
 ---
 
 I occasionally write some reviews. You can check them here -
 
-[**Movies**]({{site.baseurl}}/reviews/movies)
+[**Movies**]({{site.baseurl}}/blogs/movies)
 
-[**Books**]({{site.baseurl}}/reviews/books)
+[**Books**]({{site.baseurl}}/blogs/books)
 
-[**TV** **Series**]({{site.baseurl}}/reviews/tvseries)
+[**TV** **Series**]({{site.baseurl}}/blogs/tvseries)
 <!-- [<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/) -->
