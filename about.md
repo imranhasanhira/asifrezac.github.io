@@ -15,11 +15,4 @@ This website will be basically my digital wall magazine as well as a portfolio o
 
 <!-- A place to include any other types of information that you'd like to include about yourself. -->
 
-### Get in touch
-
-Dhaka - 1215
-
-Bangladesh, Earth.
-
-
-[asfirezac@gmail.com](mailto:asifrezac@gmail.com)
+### [Get in touch]({{ site.baseurl }}/contact) 
